@@ -4,6 +4,6 @@ This repository contains a recursive implementation of **DBSCAN clustering** app
 The approach enables efficient grouping of pickup and delivery locations to support optimal route planning and improve computational performance.  
 
 The flowchart illustrating the overall process is shown below:  
-![Flowchart](images/re-cursive_DBSCAN_PDP.jpeg)
+![Flowchart](images/re-cursive_DBSCAN_PDP.png)
 
 

@@ -1,3 +1,5 @@
-# Recursive_DBSCAN_VRP
-This repository contains a recursive implementation of DBSCAN clustering for the Vehicle Routing Problem (VRP), enabling efficient clustering of delivery locations for optimal route planning. The flowchart of the process can be found in the attached image: ![Flowchart](images/Flowchart.png) Additionally, the sample dataset input and its head are shown in the .ipynb file, which can be replicated based on your own dataset.
+# Recursive_DBSCAN_PDVRP
 
+This repository contains a recursive implementation of DBSCAN clustering applied to the Pickup and Delivery Vehicle Routing Problem (PD-VRP). The approach enables efficient grouping of pickup and delivery locations to support optimal route planning and improved computational performance. The flowchart illustrating the process is provided below:
+
+![Flowchart](images/re-cursive_ DBSCAN_PDP.jpeg) 
